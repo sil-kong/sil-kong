@@ -84,5 +84,5 @@ I am particularly interested in opportunities involving:
 
 ## Contact
 
-- [LinkedIn](www.linkedin.com/in/jacquet-mathieu)
+- [LinkedIn](linkedin.com/in/jacquet-mathieu)
 - Email: `jacquet.mathieu.01@gmail.com`
